@@ -1,0 +1,20 @@
+header{
+    border: 2px solid black;
+    margin: 20px 400px 20px 400px;
+
+}
+#legal{
+    font-family: cursive;
+    color: rgb(17, 16, 16);
+    font-weight: lighter;
+    font-size: 15px;
+}
+#section-h1{
+    margin: 0 50px;
+    border-radius: 15px;
+    background-color: rgb(200, 22, 12);
+    border: 2px solid rgb(12, 112, 200);
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    color: rgb(12, 11, 11);
+}
